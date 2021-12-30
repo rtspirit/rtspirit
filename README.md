@@ -9,8 +9,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="rtspirit | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="rtspirit | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="rtspirit | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" target="_blank" />][linkedin]
+[<img align="left" alt="rtspirit | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" target="_blank" />][instagram]
 
 <br />
 
@@ -21,15 +21,10 @@
 
   <img align="left" alt="rtspirit's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rtspirit&show_icons=true&hide_border=true&theme=radical" />
 
+ <summary>:zap: Top Languages<br/></summary>
+ <img align="left" alt="rtspirit's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rtspirt" />
+
 </details>
-
-<br />
-<details>
-    <summary>Top Langs<br/></summary>
-
-    <img align="left" alt="rtspirit's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rtspirt" />
-</details>
-
 
 [instagram]: https://instagram.com/rtspirit
 [linkedin]: https://www.linkedin.com/in/rtiwari27/
