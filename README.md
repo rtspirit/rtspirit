@@ -13,17 +13,14 @@
 
 [<img align="left" alt="rtspirit target="_blank" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="rtspirit target="_blank" | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="rtspirit target="_blank" | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
 
 <br />
 
 ---
 
+<img align="left" alt="rtspirit's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rtspirit&show_icons=true&hide_border=true&theme=gruvbox" /><br><br>
 
-<br/><br/>
-  <img align="left" alt="rtspirit's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rtspirit&show_icons=true&hide_border=true&theme=gruvbox" /><br><br>
-
- <img align="left" alt="rtspirit's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rtspirit&layout=compact" /><br><br>
+<img align="left" alt="rtspirit's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rtspirit&layout=compact" /><br><br>
 
 
 [instagram]: https://instagram.com/rtspirit
