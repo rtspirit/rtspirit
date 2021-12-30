@@ -19,10 +19,10 @@
 
 ---
 
-<p>
- <img align="left" alt="rtspirit's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rtspirit&show_icons=true&hide_border=true&theme=gruvbox" /><br><br>
+<p align="center">
+ <img padding="20px" align="center" alt="rtspirit's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rtspirit&show_icons=true&hide_border=true&theme=gruvbox" /><br><br>
 
-<img align="left" alt="rtspirit's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rtspirit&layout=compact" /><br><br>
+<img padding="20px" align="center" alt="rtspirit's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rtspirit&layout=compact" /><br><br>
 </p>
 
 [instagram]: https://instagram.com/rtspirit
