@@ -19,11 +19,11 @@
 
 ---
 
+<p>
+ <img align="left" alt="rtspirit's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rtspirit&show_icons=true&hide_border=true&theme=gruvbox" /><br><br>
 
- <img align="left" alt="rtspirit's GitHub Stats" style="padding:20px;" src="https://github-readme-stats.vercel.app/api?username=rtspirit&show_icons=true&hide_border=true&theme=gruvbox" /><br><br>
-
-<img align="left" margin-top="20px" alt="rtspirit's Top Langs"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rtspirit&layout=compact" style="margin-top:20px;" /><br><br>
-
+<img align="left" alt="rtspirit's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rtspirit&layout=compact" /><br><br>
+</p>
 
 [instagram]: https://instagram.com/rtspirit
 [linkedin]: https://www.linkedin.com/in/rtiwari27/
