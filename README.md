@@ -17,13 +17,19 @@
 ---
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  <summary>:zap: GitHub Stats<br/></summary>
 
-  <img align="left" alt="rtspirit's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rtspirit&show_icons=true&hide_border=true" />
+  <img align="left" alt="rtspirit's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rtspirit&show_icons=true&hide_border=true&theme=radical" />
 
 </details>
 
----
+<br />
+<details>
+    <summary>Top Langs<br/></summary>
+
+    <img align="left" alt="rtspirit's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rtspirt" />
+</details>
+
 
 [instagram]: https://instagram.com/rtspirit
 [linkedin]: https://www.linkedin.com/in/rtiwari27/
