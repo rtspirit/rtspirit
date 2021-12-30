@@ -18,12 +18,16 @@
 
 <details>
   <summary>:zap: GitHub Stats<br/></summary>
-
+  <br/>
   <img align="left" alt="rtspirit's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rtspirit&show_icons=true&hide_border=true&theme=radical" />
 
- <summary>:zap: Top Languages<br/></summary>
- <img align="left" alt="rtspirit's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rtspirt" />
+</details>
 
+<details>
+ <summary>:zap: Top Languages<br/></summary>
+ <br/>
+ <img align="left" alt="rtspirit's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rtspirit" />
+ 
 </details>
 
 [instagram]: https://instagram.com/rtspirit
