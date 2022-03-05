@@ -13,13 +13,13 @@
 
 [<img align="left" alt="rtspirit | Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
 [<img align="left" alt="rtspirit | Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />][instagram]
-[<img align="left" alt="rtspirit | Gmail" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/gmail.svg" />][email]
+[<img align="left" alt="rtspirit | Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/gmail.png" />][email]
 
 <br />
 
 ---
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rtspirit&show_icons=true&theme=gotham" alt="rtsprit" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rtspirit&show_icons=true&theme=gruvbox" alt="rtsprit" />
  <br><br>
 
 <img padding="20px" alt="rtspirit's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rtspirit&layout=compact" /><br><br>
