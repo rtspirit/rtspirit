@@ -19,7 +19,7 @@
 
 ---
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rtspirit&show_icons=true&theme=gruvbox" alt="rtsprit" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rtspirit&count_private=true&show_icons=true&theme=gruvbox" alt="rtsprit" />
  <br><br>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rtspirit&layout=compact" alt="rtspirit's Top Langs" /><br><br>
