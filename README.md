@@ -18,12 +18,14 @@
 <br />
 
 ---
-<p align="center"
+
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rtspirit&show_icons=true&theme=gruvbox" alt="rtsprit" />
  <br><br>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rtspirit&layout=compact" alt="rtspirit's Top Langs" /><br><br>
-/>
+ 
+ 
+ 
 [instagram]: https://instagram.com/rtspirit
 [linkedin]: https://www.linkedin.com/in/rtiwari27/
 [email]: mailto:rahultiwariofficial2020@gmail.com
