@@ -1,4 +1,4 @@
-### Hi there, I'm Rahul Tiwari - aka [rtspirit] 👋 
+### Hi there, I'm Rahul Tiwari - aka [rtspirit] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ## I'm a Software Developer and a life long Student!!
 
@@ -13,13 +13,13 @@
 
 [<img align="left" alt="rtspirit | Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
 [<img align="left" alt="rtspirit | Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />][instagram]
-[<img align="left" alt="rtspirit | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
+[<img align="left" alt="rtspirit | Gmail" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/gmail.svg" />][email]
 
 <br />
 
 ---
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rtspirit&show_icons=true&theme=gotham" alt="rtsprit" />
  <br><br>
 
 <img padding="20px" alt="rtspirit's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rtspirit&layout=compact" /><br><br>
