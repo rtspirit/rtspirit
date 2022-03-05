@@ -11,17 +11,16 @@
 
 ### Connect with me:
 
-[<img align="left" alt="rtspirit | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="rtspirit | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="rtspirit | Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
+[<img align="left" alt="rtspirit | Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />][instagram]
 [<img align="left" alt="rtspirit | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
 
 <br />
 
 ---
 
-<p>
- <img padding="20px" alt="rtspirit's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rtspirit&show_icons=true&hide_border=true&theme=gruvbox"
-      /><br><br>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+ <br><br>
 
 <img padding="20px" alt="rtspirit's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rtspirit&layout=compact" /><br><br>
 </p>
