@@ -22,7 +22,7 @@
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rtspirit&show_icons=true&theme=gruvbox" alt="rtsprit" />
  <br><br>
 
-<p aligh="center"><img padding="20px" alt="rtspirit's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rtspirit&layout=compact" /><br><br>
+<p aligh="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rtspirit&layout=compact" alt="rtspirit's Top Langs" /><br><br>
 
 [instagram]: https://instagram.com/rtspirit
 [linkedin]: https://www.linkedin.com/in/rtiwari27/
