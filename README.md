@@ -25,10 +25,6 @@
 
 <p align="center"> <img src="https://readme-stats.clckblog.space/api/top-langs/?username=rtspirit&layout=compact" alt="rtspirit's Top Langs" /><br><br>
 
-
----
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rtspirit&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  
  
 [instagram]: https://instagram.com/rtspirit
