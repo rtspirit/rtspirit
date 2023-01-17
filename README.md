@@ -4,9 +4,10 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=rtspirit.rtspirit)
 
-- :world_map: I'm from India :earth_asia: and currently studying at Northeastern University, Boston :earth_americas:
-- 🌱 I’m currently learning everything :grin:
-- 🥅 2022 Goals: Build projects to enhance user experience :heart:
+- :world_map: I'm from India :earth_asia: 
+- :wolf: Northeastern University, Boston - 2022 :earth_americas:
+- 🌱 I’m currently expanding skills in front-end development :grin:
+- 🥅 2023 Goals: Build projects to enhance user experience :heart:
 - ⚡ Fun fact: I am a hard core PC Gamer and Gadget enthusiast :joystick:
 
 ### Connect with me:
@@ -19,11 +20,15 @@
 
 ---
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rtspirit&count_private=true&show_icons=true&theme=gruvbox" alt="rtsprit" />
+<p align="center"> <img src="https://readme-stats.clckblog.space/api?username=rtspirit&count_private=true&show_icons=true&theme=transparent" alt="rtsprit" />
  <br><br>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rtspirit&layout=compact" alt="rtspirit's Top Langs" /><br><br>
- 
+<p align="center"> <img src="https://readme-stats.clckblog.space/api/top-langs/?username=rtspirit&layout=compact" alt="rtspirit's Top Langs" /><br><br>
+
+
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rtspirit&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  
  
 [instagram]: https://instagram.com/rtspirit
