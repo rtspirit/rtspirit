@@ -2,7 +2,7 @@
 
 ## I'm a Software Engineer living in Boston, MA 🦅
 
-![](https://visitor-badge.glitch.me/badge?page_id=rtspirit.rtspirit)
+![](https://komarev.com/ghpvc/?username=rtspirit&color=blue)
 
 - :world_map: I'm from Bhopal, Madhya Pradesh, India
 - :wolf: Northeastern University, Boston - 2022
