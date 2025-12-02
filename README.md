@@ -21,7 +21,9 @@
 
 ---
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rtspirit&count_private=true&show_icons=true&theme=monokai" alt="rtsprit" />
+<p align="center" href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=rtspirit&theme=dark" alt="GitHub Streak" /><br><br>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rtspirit&count_private=true&show_icons=true" alt="rtspirit" />
  <br><br>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rtspirit" alt="rtspirit's Top Langs" /><br><br>
