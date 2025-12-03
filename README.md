@@ -5,31 +5,27 @@
 ![](https://komarev.com/ghpvc/?username=rtspirit&color=blue)
 
 - :world_map: I'm from Bhopal, Madhya Pradesh, India
-- :wolf: Northeastern University, Boston - 2022
+- :wolf: M.S in Information Systems from Northeastern University, Boston - 2022
 - 🌱 I’m currently working as a Software Engineer - II at [Chewy](https://www.chewy.com/)
 - 🥅 2025 Goals: Build projects to enhance user experience and contribute to the open source community
 
 ### Connect with me:
 
-[<img align="left" alt="rtspirit | Linkedin" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />][linkedin]
-[<img align="left" alt="rtspirit | Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />][instagram]
-[<img align="left" alt="rtspirit | Instagram" width="22px" height="22px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />][email]
+[<img align="left" alt="rtspirit | Linkedin" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />][linkedin]
+[<img align="left" alt="rtspirit | Email" width="22px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Gmail_Icon_%282013-2020%29.svg" />][email]
 
 <br />
 
-### Portfolio: [Visit Here](https://rtspirit.github.io/rahultiwari.com/) 💻
+### Portfolio: [Visit Here](https://rahultiwari-portfolio.vercel.app/) 💻
 
 ---
 
 <p align="center" href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=rtspirit&theme=dark" alt="GitHub Streak" /><br><br>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rtspirit&count_private=true&show_icons=true" alt="rtspirit" />
+<!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rtspirit&count_private=true&show_icons=true" alt="rtspirit" />
  <br><br>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rtspirit" alt="rtspirit's Top Langs" /><br><br>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rtspirit" alt="rtspirit's Top Langs" /><br><br> -->
 
- 
- 
-[instagram]: https://instagram.com/rtspirit
 [linkedin]: https://www.linkedin.com/in/rtiwari27/
-[email]: mailto:rahultiwariofficial2020@gmail.com
+[email]: mailto:tiwari.ra2022@gmail.com
