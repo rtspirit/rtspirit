@@ -7,7 +7,7 @@
 - :world_map: I'm from Bhopal, Madhya Pradesh, India
 - :wolf: M.S in Information Systems from Northeastern University, Boston - 2022
 - 🌱 I’m currently working as a Software Engineer - II at [Chewy](https://www.chewy.com/)
-- 🥅 2025 Goals: Build projects to enhance user experience and contribute to the open source community
+- 🥅 2026 Goals: Build AI-native projects to enhance user experience and contribute to the open source community
 
 ### Connect with me:
 
