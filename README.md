@@ -15,15 +15,15 @@
 
 ## About Me
 
-I'm a Senior Full-Stack Software Engineer with a strong foundation in building production-grade web applications — from system architecture to polished user interfaces. I hold an **M.S. in Information Systems from Northeastern University** (2022) and have been shipping impactful software ever since, with a growing focus on **AI-native product development**.
+I'm a Senior Full-Stack Software Engineer with a strong foundation in building production-grade web applications and AI systems — from system architecture to polished user interfaces. I hold an **Executive M.S. in Artificial Intelligence** as well as  **M.S. in Information Systems from Northeastern University** and have been shipping impactful software ever since, with a growing focus on **AI-native product development**.
 
-Originally from **Bhopal, Madhya Pradesh, India**, now building in Boston.
+I live in Boston, MA.
 
 > *"Code is craft. Systems are leverage. Products are impact."*
 
 ---
 
-## 🚀 Featured Project — BostonHome.app
+## 🚀 Featured Project - BostonHome.app
 
 <div align="center">
 
@@ -87,7 +87,9 @@ A civic tech platform empowering Boston renters with **transparent, community-so
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=rtspirit&count_private=true&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=0A66C2&icon_color=FF4500" alt="GitHub Stats" />
+<img src="https://github-stats-extended.vercel.app/api?username=rtspirit&theme=radical&count_private=true&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=0A66C2&icon_color=FF4500" alt="GitHub Stats" />
+
+
 
 <br/><br/>
 
